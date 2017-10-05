@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="button">Button</string>
+    <string name="hey">hey</string>
+    <string name="back_to_button">Back to Button</string>
+    <string name="bye">bye</string>
+</resources>
